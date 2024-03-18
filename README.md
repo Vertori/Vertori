@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm Rafał</h1>
-<p>A passionate and ambitious self-taught Frontend React Developer who spends every single day learning new things
+<p>A passionate and ambitious self-taught Fullstack React Developer who spends every single day learning new things
             along with solutions, best practices and developing his programming
             skills. I'm always focusing on creating responsive and user-friendly
             websites. Besides, I am an IT technician and a student of IT in
@@ -66,6 +66,9 @@
             </a>
             <a href="#">
               <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>      
+            </a>
+            <a href="#">
+              <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/>      
             </a>
             <a href="#">
               <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>      
