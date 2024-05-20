@@ -73,6 +73,9 @@
             <a href="#">
               <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>      
             </a>
+               <a href="#">
+              <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white"/>      
+            </a>
               <a href="#">
               <img src="https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white"/>      
             </a>
@@ -84,15 +87,6 @@
             </a>
              <a href="#">
               <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white"/>      
-            </a>
-            <a href="#">
-               <img src="https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue"/>   
-            </a>
-            <a href="#">
-             <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7"/>      
-            </a>
-             <a href="#">
-             <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/>      
             </a>
 </p>
 
