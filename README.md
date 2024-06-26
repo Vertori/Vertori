@@ -2,7 +2,7 @@
 <p>A passionate and ambitious self-taught Fullstack React Developer who spends every single day learning new things
             along with solutions, best practices and developing his programming
             skills. I'm always focusing on creating responsive and user-friendly
-            websites. Besides, I am an IT technician and a student of IT in
+            websites. Besides, I am an IT technician and a student of Computer Science in
             business and I definitely enjoy discovering new technologies.</p>
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vertori&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
