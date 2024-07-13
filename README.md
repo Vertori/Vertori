@@ -1,9 +1,4 @@
 <h1>Hi 👋, I'm Rafał</h1>
-<p>A passionate and ambitious self-taught Fullstack React Developer who spends every single day learning new things
-            along with solutions, best practices and developing his programming
-            skills. I'm always focusing on creating responsive and user-friendly
-            websites. Besides, I am an IT technician and a student of Computer Science in
-            business and I definitely enjoy discovering new technologies.</p>
 
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Vertori&theme=vue&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
@@ -93,9 +88,6 @@
 ## 🌐 Links:
 
 <p>
-<a href="https://www.linkedin.com/in/rafa%C5%82-fikus-687815245/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
 <a href="https://rfikus-portfolio.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139"/>
 </a>
